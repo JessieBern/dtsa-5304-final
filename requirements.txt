@@ -77,7 +77,7 @@ pyspark==3.0.0
 python-dateutil==2.8.1
 pytz==2020.1
 PyYAML==6.0
-pyzmq==22.3.0
+pyzmq
 requests==2.26.0
 requests-toolbelt==0.9.1
 requests-unixsocket==0.2.0
